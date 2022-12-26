@@ -1,11 +1,26 @@
 body {
-    background: blue;
+    background: white;
+    text-align: center;
 }
 
 h1 {
     text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
 }
 
 h2 {
     text-align: center;
 }
+
+img[title="Handsome Chris"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 500px;
+}
+
+figcaption {
+    text-align: center;
+}
+
