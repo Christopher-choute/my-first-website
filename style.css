@@ -12,6 +12,11 @@ h2 {
     text-align: center;
 }
 
+h4 {
+    font-size: larger;
+    margin-top: 50px;
+}
+
 img[title="Handsome Chris"] {
     display: block;
     margin-left: auto;
