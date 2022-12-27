@@ -21,6 +21,10 @@ h5 {
     font-size: larger;
 }
 
+h6 {
+    font-size: larger;
+}
+
 img[title="Handsome Chris"] {
     display: block;
     margin-left: auto;
@@ -30,6 +34,14 @@ img[title="Handsome Chris"] {
 }
 
 img[title="Rainbow Rebound"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 500px;
+}
+
+img[title="Sick!"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
