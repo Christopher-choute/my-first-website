@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background: whitesmoke;
     text-align: center;
 }
 
@@ -23,4 +23,39 @@ img[title="Handsome Chris"] {
 figcaption {
     text-align: center;
 }
+
+p {
+    font-size: larger;
+    line-height: 2;
+}
+
+/*
+#task-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  #task-bar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #task-bar li {
+    margin: 0;
+    padding: 10px;
+    border-bottom: 1px solid #444;
+  }
+  
+  #task-bar a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+  }
+*/
 
